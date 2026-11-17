@@ -1,0 +1,6 @@
+{
+  "name": "Desa Wisata Lereng Asri",
+  "description": "Portal resmi agro-wisata pegunungan, edukasi kopi, homestay warga bersertifikat, dan paket jelajah alam di Desa Wisata Lereng Asri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
